@@ -1,1 +1,1 @@
-# TheSoundOfPixels-PaperPresentation
+# *The Sound of Pixels* - Paper Presentation
